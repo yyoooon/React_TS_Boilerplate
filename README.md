@@ -1,6 +1,6 @@
 # React_TS_Boilerplate
 
-create-react-app을 이용하지 않고 최소힌의 스택으로 구성된 리액트ts 보일러 플레이트입니다. 
+create-react-app을 이용하지 않고 최소한의 스택으로 구성한 리액트ts 보일러 플레이트입니다. 
 
 ## 0. 실행 방법
 - 터미널에서 `yarn install`을 입력해 패키지를 설치합니다.
